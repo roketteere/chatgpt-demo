@@ -1,0 +1,54 @@
+ body{
+    background-color: #441478;
+ }
+
+ #container{
+ 
+    display: flex;
+    flex-direction: column;
+ }
+
+#gpt-container {
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    margin: 2px;
+    align-self: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: honeydew;
+}
+
+#gpt-input{
+    border: 6px solid darkcyan;
+    width: 400px;
+    height: 20px;
+    margin: 10px;
+    margin-bottom: 25px;
+    align-self: center;
+    
+
+}
+/* gpt css framework that generates using input for each element type and describe each item etc.. */
+#gpt-button{
+    background-color: darkcyan;
+    border-style: unset;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    align-self: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: honeydew;
+}
+
+textarea{
+    border: 5px solid darkcyan;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    align-self: center
+}

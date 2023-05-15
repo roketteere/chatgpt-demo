@@ -1,0 +1,4 @@
+ORG_ID='org-Enter Org Id found in you profile area'
+API_KEY='YOUR API KEY HERE'
+
+# REMOVE THIS - Rename this file to .env and add your own values
